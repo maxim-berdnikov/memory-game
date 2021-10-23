@@ -93,7 +93,7 @@ const restart = (status) => {
   setTimeout(() => {
     cardGenerator();
     firstShow();
-  }, 1000);
+  }, 2000);
 };
 
 const checkCards = (e) => {
